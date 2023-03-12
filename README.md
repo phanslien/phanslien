@@ -4,7 +4,7 @@ My name is Pia Hanslien, and I am a frontend developer.
 I have studied at Noroff School of technology and digital media, and works as a frontend developer at BDO Norway.
 
 I you want to take a look at my work throughout my studies:
-If you want to reach me: [LinkedIn] (https://www.linkedin.com/in/pia-hanslien-29b045180/)
+If you want to reach me: (LinkedIn) [https://www.linkedin.com/in/pia-hanslien-29b045180/]
 
 Other than making 
 <!--
